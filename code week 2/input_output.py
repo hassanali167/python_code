@@ -1,4 +1,4 @@
-# Taking user information using input() and displaying a summary 
+# Taking user information using input() and displaying a summary
 
 print("----- USER REGISTRATION -----")
 first_name = input("Enter your first name: ")
