@@ -6,6 +6,7 @@ percentage = 85.5
 is_enrolled = True
 complex_number = 2 + 3j
 
+
 print("----- DATA TYPES DEMO -----")
 print("Name:", name, "| Type:", type(name))
 print("Age:", age, "| Type:", type(age))
