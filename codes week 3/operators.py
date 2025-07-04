@@ -10,4 +10,3 @@ print("Power:", a ** b)
 print("Floor Division:", a // b)
 
 
-
