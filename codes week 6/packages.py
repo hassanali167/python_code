@@ -2,7 +2,6 @@ import datetime
 import random
 
 
-
 now = datetime.datetime.now()
 print("Current Time:", now)
 
