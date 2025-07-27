@@ -1,5 +1,6 @@
 import gradio as gr
 
+
 # Define the function to use in the web app
 def greet(name):
     return f"Hello, {name}! Welcome to the Gradio app."
